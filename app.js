@@ -1,7 +1,7 @@
 pdfjsLib.GlobalWorkerOptions.workerSrc =
 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
 
-const API_URL = "PEGA_AQUI_TU_GOOGLE_SCRIPT";
+const API_URL = "https://script.google.com/macros/s/AKfycbwjPXFtN2meNDNs8-JmA1x7nmmTotnlrYB6_HpNKUGU9YkRGblrEYlpOWxQNFG13JgeQg/exec";
 
 let rankingData = {};
 
